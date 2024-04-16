@@ -2,11 +2,15 @@
 
 ---
 
+
+https://github.com/CHANZ12/Heart-Failure-Prediction/assets/115061303/5855c8a4-b878-4007-a5ee-071f17c3d1b1
+
+
 ### Overview:
 
 This project focuses on predicting heart failure using machine learning techniques. Heart failure is a critical medical condition that requires timely detection and intervention to prevent adverse outcomes. By leveraging various features such as medical history, vital signs, and demographic information, this predictive model aims to assist health
 
-https://github.com/CHANZ12/Heart-Failure-Prediction/assets/115061303/a5f16675-d2cb-4821-bf7e-1516274b8cf8
+
 
 care professionals in identifying individuals at risk of heart failure.
 
